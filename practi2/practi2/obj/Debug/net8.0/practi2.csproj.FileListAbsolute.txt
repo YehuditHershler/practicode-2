@@ -1,0 +1,16 @@
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\practi2.exe
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\practi2.deps.json
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\practi2.runtimeconfig.json
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\practi2.dll
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\practi2.pdb
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.AssemblyInfoInputs.cache
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.AssemblyInfo.cs
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.csproj.CoreCompileInputs.cache
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.dll
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\refint\practi2.dll
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.pdb
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\practi2.genruntimeconfig.cache
+C:\Users\יהודית תכנות\Documents\practi2\practi2\obj\Debug\net8.0\ref\practi2.dll
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\HtmlTags.json
+C:\Users\יהודית תכנות\Documents\practi2\practi2\bin\Debug\net8.0\HtmlVoidTags.json
