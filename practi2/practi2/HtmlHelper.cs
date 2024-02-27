@@ -22,9 +22,6 @@ namespace practi2
             AllHtmlTags = JsonSerializer.Deserialize<string[]>(File.ReadAllText("HtmlTags.json"));
             SelfClosingTags = JsonSerializer.Deserialize<string[]>(File.ReadAllText("HtmlVoidTags.json"));
         }
-
-
     }
 
-//using System.IO;
 }
